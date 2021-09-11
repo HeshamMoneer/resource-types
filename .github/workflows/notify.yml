@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Notify the resource types website of updates
         run: |
-          curl -X POST
+          curl -X POST \
           -H "Accept: application/vnd.github.v3+json" \
           https://api.github.com/repos/HeshamMoneer/resource-types-website/dispatches \
           -d '{"event_type": "updated"}'
