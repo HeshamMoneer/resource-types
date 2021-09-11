@@ -1,4 +1,4 @@
-name: This is Hesham testing
+name: Final Hesham test
 repo: https://github.com/troykinsella/concourse-ansible-playbook-resource
 container_image: troykinsella/concourse-ansible-playbook-resource
 description: |
