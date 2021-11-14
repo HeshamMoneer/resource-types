@@ -2,4 +2,4 @@ name: Hello Ehab
 repo: https://github.com/troykinsella/concourse-ansible-playbook-resource
 container_image: troykinsella/concourse-ansible-playbook-resource
 description: |
-  The website has been down for a while because the gh_token has expired, and I had to regenerate the token.
+  I have regenerated a permanent GH_TOKEN
