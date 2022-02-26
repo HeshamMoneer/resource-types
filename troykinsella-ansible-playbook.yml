@@ -1,4 +1,4 @@
-name: I Love you Yasminty <3
+name: GH_TOKEN
 repo: https://github.com/troykinsella/concourse-ansible-playbook-resource
 container_image: troykinsella/concourse-ansible-playbook-resource
 description: |
